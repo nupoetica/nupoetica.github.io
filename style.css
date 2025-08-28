@@ -1,0 +1,82 @@
+		*{
+ margin : 0;
+ padding: 0;
+ box-sizing: border-box;
+}
+
+body {
+    margin: 80px;
+    font-family: monospace;
+    background-color: powderblue;
+    color: cadetblue;
+    font-size: 10pt;
+    word-break: keep-all;
+    
+
+
+}
+
+h1 {
+    font-family: sans-serif;
+    color: azure;
+
+
+}
+
+
+mark {background-color: whitesmoke;
+	
+}
+	
+
+li:: marker: {
+    color:cadetblue;
+    content: "∃E";
+
+
+}
+
+
+a {
+    color:azure;
+    text-decoration: none;
+
+
+}
+
+
+a:visited {
+    color:tomato;
+    text-decoration: none;
+
+
+}
+
+
+a:hover {
+    color: black;
+    background-color: ;
+
+}
+
+
+
+
+
+
+img {
+	height: 500px;
+}
+
+@media screen and (max-width: 704px) {
+
+}
+
+
+footer {
+
+}
+
+.wrap-text { white-space: pre-wrap;
+    
+}
